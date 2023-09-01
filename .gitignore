@@ -1,0 +1,12 @@
+*
+
+**/
+
+!*.py
+!*.ipynb
+
+!README.md
+!.gitignore
+
+!JupyterImages
+!JupyterImages/*
